@@ -625,7 +625,6 @@ if (!isset($_SESSION['username'])) {
 
 
     </style>
-    
 </head>
 <body>
    
