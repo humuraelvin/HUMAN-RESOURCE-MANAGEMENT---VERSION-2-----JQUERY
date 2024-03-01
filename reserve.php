@@ -49,6 +49,7 @@
                 <td><input type="text" class="txtbox" name="email" id="email" required></td>
             </tr>
                     <br>
+                
             <tr>
                 <th class="msg">ENTER Phone:</th>
                 <td><input type="number" class="txtbox" name="contact" id="contact" required></td>
